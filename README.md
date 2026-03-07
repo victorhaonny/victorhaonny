@@ -1,5 +1,5 @@
 
-Atualmente, estou estudando Ciência da Computação na UESC.
+I am currently studying Computer Science at UESC.
 
 ### 🖥️Tecnologias
 --------
