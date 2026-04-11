@@ -15,6 +15,7 @@ I am currently studying Computer Science at UESC.
 ### 🌐 Minhas Redes
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haonny-novais-aa3989337/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vhnaraujo.cic@uesc.br)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@VoltOnda)
 
 --.- ..- . / -.. . ..- ... / - . / .- -... . -. -.-. --- .
