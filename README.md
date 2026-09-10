@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hello!)](https://git.io/typing-svg)
-
-I am currently studying Computer Science at UESC.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=43F718&width=435&lines=Entusiasta.+.+.;Apenas.)](https://git.io/typing-svg)
 
 ### 🖥️Tecnologias
 ---
