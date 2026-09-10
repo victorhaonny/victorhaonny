@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=43F718&width=435&lines=Entusiasta.+.+.;Apenas.)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=66F733&width=435&lines=.+.+.)](https://git.io/typing-svg)
 ### 🖥️Tecnologias
 ---
 
